@@ -14,7 +14,7 @@ if(isset($_POST["email"] && !empty($_POST["email"]) )){
         die("No hay conexion: ".mysqli_connect_error());
     }
 
-    $sql = "UPDATE registro SET Contraseña='$pass' WHERE Correo = '$mail'";
+    $sql = "UPDATE usuarios SET Contra='$pass' WHERE Correo = '$mail'";
 
     if($conn->query($sql)== TRUE ){
         echo "EL USUARIO HA SIDO CAMBIADO CORRECTAMENTE";
