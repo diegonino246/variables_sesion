@@ -1,0 +1,528 @@
+
+#inicio {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  url('./imagenes/fondo_gif.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  width: 1440px;
+  left: -1px;
+  top: -1px;
+  height: 940px;
+}
+.yo{
+position: absolute;
+width: 616px;
+height: 73px;
+left: 409px;
+top: 333px;
+font-family: Zilla Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 70px;
+line-height: 84px;
+
+color: #F48080;
+}
+.yo2{
+position: absolute;
+width: 413px;
+height: 54px;
+left: 507px;
+top: 424px;
+
+font-family: Zilla Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 54px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.home{
+  position: absolute;
+  width: 150px;
+  height: 46px;
+  left: 32px;
+  top: 13px;
+  
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  
+  
+  color: #FFFFFF;
+}
+
+.sobre{
+  position: absolute;
+  width: 168px;
+  height: 56px;
+  left: 251px;
+  top: 13px;
+  
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  
+  
+  color: #FFFFFF;
+}
+
+.biografia{
+position: absolute;
+width: 267px;
+height: 56px;
+left: 494px;
+top: 13px;
+font-family: Zilla Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+
+}
+
+.port{
+position: absolute;
+width: 295px;
+height: 56px;
+left: 836px;
+top: 13px;
+font-family: Zilla Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+
+.redes{
+position: absolute;
+width: 163px;
+height: 56px;
+left: 1206px;
+top: 13px;
+font-family: Zilla Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 58px;  
+color: #FFFFFF;
+}
+.contenedor1{
+position: absolute;
+width: 1443px;
+height: 100px;
+left: -3px;
+top: -1px;
+background: #6A8BB1;
+}
+
+.contenedor2{
+position: absolute;
+width: 1440px;
+height: 10px;
+left: 0px;
+top: 90px;
+background: #63ADF2;
+}
+
+#sobre{
+position: absolute;
+width: 1440px;
+height: 1028px;
+left: 0px;
+top: 974px;
+overflow-y: scroll;
+background: #FFFFFF;
+}
+
+.titulo-sobre{
+position: absolute;
+width: 356px;
+height: 93px;
+left: 542px;
+top: -68px;
+font-family: Zilla Slab;
+font-style: normal;
+font-weight: normal;
+font-size: 65px;
+line-height: 84px;
+color: #000000;
+}
+
+.titulo-rap{
+  position: absolute;
+  width: 148px;
+  height: 52px;
+  left: 99px;
+  top: 331px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000000;
+}
+.img-rapidez{
+  position: absolute;
+  width: 168px;
+  height: 157px;
+  left: 89px;
+  top: 160px;
+}
+
+.textos-rap{
+  position: absolute;
+  width: 308px;
+  height: 322px;
+  left: 49px;
+  top: 432px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 54px;
+  color: #000000;
+}
+.titulo-res{
+  position: absolute;
+  width: 188px;
+  height: 52px;
+  left: 436px;
+  top: 332px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000000;
+}
+
+.img-responsivo{
+  position: absolute;
+  width: 168px;
+  height: 157px;
+  left: 436px;
+  top: 160px;
+}
+
+.textos-res{
+  position: absolute;
+  width: 247px;
+  height: 323px;
+  left: 401px;
+  top: 432px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 54px;
+  color: #000000;
+}
+
+.titulo-int{
+  position: absolute;
+  width: 148px;
+  height: 53px;
+  left: 813px;
+  top: 336px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000000;
+}
+
+.img-intuitivo{
+  position: absolute;
+  width: 167px;
+  height: 172px;
+  left: 788px;
+  top: 160px;
+}
+
+.textos-int{
+  position: absolute;
+  width: 275px;
+  height: 492px;
+  left: 748px;
+  top: 428px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 54px;
+  color: #000000;
+}
+
+.titulo-din{
+  position: absolute;
+  width: 148px;
+  height: 53px;
+  left: 1166px;
+  top: 341px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000000;
+}
+
+.img-dinamica{
+  position: absolute;
+  width: 168px;
+  height: 157px;
+  left: 1140px;
+  top: 160px;
+}
+
+.textos-din{
+  position: absolute;
+  width: 288px;
+  height: 393px;
+  left: 1102px;
+  top: 443px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 54px;
+  color: #000000;
+}
+
+#biografia{
+  position: absolute;
+  width: 1436px;
+  height: 1006px;
+  left: 4px;
+  top: 2053px;
+  
+  background: #FFFFFF;
+}
+
+h3{
+  position: absolute;
+  width: 295px;
+  height: 49px;
+  left: 115px;
+  top: 10px;
+  
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 58px;
+  
+  color: #FFFFFF;
+}
+
+.titulo-pregunta{
+  position: absolute;
+  width: 720px;
+  height: 155px;
+  left: -4px;
+  top: 0px;
+  background: #6A8BB1;
+}
+.titulo-bio{
+  position: absolute;
+  width: 720px;
+  height: 155px;
+  left: 716px;
+  top: 0px;
+  background: #304D6D;
+}
+.fondo-bio{
+  position: absolute;
+  width: 1430px;
+  height: 852px;
+  left: -4px;
+  top: 154px;
+  opacity: 0.8;
+}
+.foto-perfil{
+  position: absolute;
+  width: 463px;
+  height: 458px;
+  left: 125px;
+  top: 342px;
+  border-radius: 50%;
+  opacity: 0.9;
+}
+.texto-bio{
+  position: absolute;
+  width: 525px;
+  height: 393px;
+  left: 818px;
+  top: 225px;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 42px;
+  color: #FFFFFF;
+}
+
+.imagen-html{
+  position: absolute;
+  width: 146px;
+  height: 128px;
+  left: 910px;
+  top: 642px;
+}
+.imagen-css{
+  position: absolute;
+  width: 155px;
+  height: 145px;
+  left: 1126px;
+  top: 638px;
+}
+.imagen-php{
+  position: absolute;
+  width: 176px;
+  height: 137px;
+  left: 995px;
+  top: 807px;
+}
+#portafolio{
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  left: 0px;
+  top: 3059px;
+}
+.cuadro-portafolio{
+  position: absolute;
+  width: 1440px;
+  height: 115px;
+  left: 0px;
+  top: 0px;
+  background: #5076AF;
+}
+.fondo-port{
+  position: absolute;
+  width: 1440px;
+  height: 913px;
+  left: -1px;
+  top: 111px;
+  opacity: 0.7;
+}
+.logo-colg{
+  position: absolute;
+  width: 447px;
+  height: 264px;
+  left: 127px;
+  top: 248px;
+}
+.texto-port{
+  position: absolute;
+  width: 531px;
+  height: 234px;
+  left: 772px;
+  top: 248px;
+  
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 54px;
+  
+  color: #FFFFFF;
+}
+.titulo-port{
+  top: -15px;
+}
+#redes{
+  position: absolute;
+  width: 1440px;
+  height: 720px;
+  left: 0px;
+  top: 4083px;
+  
+  background: #62A9EB;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+  
+  color: #FFFFFF;
+}
+.cuadro-redes{
+  position: 50%;
+  width: 1440px;
+  height: 136px;
+  left: 0px;
+  top: 0px;
+  background: #335263;
+}
+.fondo-redes{
+  position: absolute;
+  width: 1440px;
+  height: 584px;
+  left: 0px;
+  top: 136px;
+  opacity: 0.8;
+}
+.caja-contacto{
+  position: absolute;
+  width: 498px;
+  height: 270px;
+  left: 86px;
+  top: 254px;
+  opacity: 0.7;
+  text-align: start;
+}
+.caja-contacto2{
+  position: absolute;
+  width: 239px;
+  height: 45px;
+  left: 86px;
+  top: 570px;
+  background: #FFFFFF;
+  font-family: Zilla Slab;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 50px;
+  color: 0000;
+}
+.titulo-redes{
+  position: absolute;
+  width: 409px;
+  height: 62px;
+  left: 820px;
+  top: 171px;
+}
+.img-insta{
+  position: absolute;
+  width: 96px;
+  height: 94px;
+  left: 811px;
+  top: 320px;
+}
+.img-git{
+  position: absolute;
+  width: 96px;
+  height: 94px;
+  left: 983px;
+  top: 320px;
+}
+.img-face{
+  position: absolute;
+  width: 96px;
+  height: 94px;
+  left: 1133px;
+  top: 320px;
+}
