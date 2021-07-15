@@ -91,10 +91,9 @@ if(!isset($_SESSION["correo"])){
             <a class="img-insta" href="https://www.instagram.com"><img src="imagenes/instagram 1.png" alt=""></a>
             <a class="img-git" href="https://github.com/diegonino246"><img src="imagenes/github 1.png" alt=""></a>
             <a class="img-face" href="https://www.facebook.com/profile.php?id=100050491759565"><img src="imagenes/facebook 1.png" alt=""></a>
+            <a href="cerrar_sesion.php"><button type="button" class="btn btn-danger">Cerrar sesion</button></a>
         </div>
     </div>
-    <div></div>
-    <a href="cerrar_sesion.php"><button type="button" class="btn btn-danger">Cerrar sesion</button></a>
 </body>
 
 </html>
