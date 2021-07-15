@@ -9,7 +9,8 @@
     
         
     </head>
-    
+    <!--PROFE EL PINCHI TEAMS ME CAMBIO EL NOMBRE DE LA BASE DE DATOS Y LE PUSO UN 2 DE MAS AL NOMBRE EN LA TAREA
+    SOLO LE DIGO POR SI LE TIRA UN ERROR XD-->
     <body>
     
         <div id="contenedor">
